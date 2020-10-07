@@ -12,5 +12,13 @@
     "jayonta sarkar",
     "jayonta",
     "portfolio-cli"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "jayontasarkar/joy",
+  "author": {
+    "name": "Jayonta Sarkar",
+    "email": "jayontasarkar025@gmail.com",
+    "url": "https://twitter.com/jayontasarkar"
+  }
 }
