@@ -1,8 +1,11 @@
 {
   "name": "jayontasarkar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Know me via npm. Just run `npx jayontasarkar`",
   "bin": {
     "jayontasarkar": "index.js"
+  },
+  "dependencies": {
+    "clear-any-console": "^1.16.2"
   }
 }
