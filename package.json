@@ -1,8 +1,8 @@
 {
-  "name": "joy",
+  "name": "jayontasarkar",
   "version": "1.0.0",
-  "description": "Know me via npm. Just run `npx joy`",
+  "description": "Know me via npm. Just run `npx jayontasarkar`",
   "bin": {
-    "joy": "index.js"
+    "jayontasarkar": "index.js"
   }
 }
