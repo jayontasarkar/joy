@@ -1,0 +1,8 @@
+{
+  "name": "joy",
+  "version": "1.0.0",
+  "description": "Know me via npm. Just run `npx joy`",
+  "bin": {
+    "joy": "index.js"
+  }
+}
