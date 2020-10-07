@@ -1,11 +1,16 @@
 {
   "name": "jayontasarkar",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Get to know me via npx. Just run `npx jayontasarkar`",
   "bin": {
     "jayontasarkar": "index.js"
   },
   "dependencies": {
     "cli-welcome": "^2.2.2"
-  }
+  },
+  "keywords": [
+    "jayonta sarkar",
+    "jayonta",
+    "portfolio-cli"
+  ]
 }
