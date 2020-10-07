@@ -1,6 +1,6 @@
 {
   "name": "jayontasarkar",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "Get to know me via npx. Just run `npx jayontasarkar`",
   "bin": {
     "jayontasarkar": "index.js"
