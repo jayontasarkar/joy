@@ -1,7 +1,17 @@
 #!/usr/bin/env node
-const clearAnyConsole = require('clear-any-console');
-// Clears the console
-clearAnyConsole();
+const pkgJSON = require('./package.json');
+const welcome = require('cli-welcome');
+// Welcome header
+welcome({
+  title: pkgJSON.name,
+  tagline: 'Howdy! nice to meet ya!',
+  description: pkgJSON.description,
+  version: pkgJSON.version,
+  bgColor: `#FADC00`,
+  color: `#000000`,
+  bold: true,
+  clear: true,
+});
 
 console.log(`
 Hi! I'm Jayonta Sarkar.
